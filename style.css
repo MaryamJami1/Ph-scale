@@ -1,0 +1,91 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ph scale */
+.Ph_scale {
+    height: 40px;
+    background-color: rgba(216, 211, 211, 0.486);
+    color: rgba(0, 0, 0, 0.708);
+    font-size: 30px;
+    padding-top: 10px;
+    text-indent: 25px;
+    font-weight: 600;
+}
+
+/* fourteen */
+#fourteen {
+    background-color: rgb(14, 128, 204);
+    color: #ffff;
+    font-size: 22px;
+    text-transform: uppercase;
+    text-indent: 10px;
+    line-height: 1.5;
+    margin-top: 20px;
+
+}
+
+/* main div */
+.main_div {
+    color: #ffff;
+    font-size: 22px;
+    text-indent: 10px;
+    line-height: 1.5;
+    text-transform: uppercase;
+}
+
+#thirteen {
+    background-color: rgba(18, 138, 213, 0.929);
+}
+
+#twelve {
+    background-color: rgba(20, 149, 234, 0.852);
+}
+
+#eleven {
+    background-color: rgba(52, 167, 244, 0.852);
+}
+
+#ten {
+    background-color: rgba(63, 174, 248, 0.77);
+}
+
+#nine {
+    background-color: rgba(73, 179, 249, 0.697);
+}
+
+#eight {
+    background-color: rgba(97, 187, 247, 0.595);
+}
+
+#seven {
+    background-color: rgb(13, 204, 115);
+}
+
+#six {
+    background-color: rgba(251, 222, 226, 0.622);
+}
+
+#five {
+    background-color: rgba(254, 220, 224, 0.923);
+}
+
+#four {
+    background-color: rgba(250, 203, 209, 0.827);
+}
+
+#three {
+    background-color: rgba(251, 191, 199, 0.86);
+}
+
+#two {
+    background-color: rgb(251, 191, 199);
+}
+
+#one {
+    background-color: rgb(250, 180, 189);
+}
+
+#zero {
+    background-color: rgba(249, 159, 171, 0.936);
+}
