@@ -13,17 +13,6 @@
     font-weight: 600;
 }
 
-/* fourteen */
-#fourteen {
-    background-color: rgb(14, 128, 204);
-    color: #ffff;
-    font-size: 22px;
-    text-transform: uppercase;
-    text-indent: 10px;
-    line-height: 1.5;
-    margin-top: 20px;
-
-}
 
 /* main div */
 .main_div {
@@ -32,6 +21,11 @@
     text-indent: 10px;
     line-height: 1.5;
     text-transform: uppercase;
+    margin-top: 20px;
+}
+
+#fourteen {
+    background-color: rgb(14, 128, 204);
 }
 
 #thirteen {
